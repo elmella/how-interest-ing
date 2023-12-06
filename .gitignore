@@ -1,5 +1,2 @@
 # Ignore the .env file
 .env
-
-# ignore the data .csv files
-master_data.csv
